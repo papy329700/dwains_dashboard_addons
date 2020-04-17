@@ -35,7 +35,7 @@ In your auto_informatie.yaml:
 
 ### Screenshots
 **Desktop:**<br>
-![desktop](https://github.com/papy329700/dwains-theme-addons/tree/master/more_page/auto_informatie/.github/screenshots/desktop.png "desktop")
+![desktop](https://github.com/papy329700/dwains-theme-addons/blob/master/more_page/auto_informatie/.github/screenshots/desktop.png "desktop")
 
 **Mobile:**<br>
-![mobile](https://github.com/papy329700/dwains-theme-addons/tree/master/more_page/auto_informatie/.github/screenshots/mobile.png "mobile")
+![mobile](https://github.com/papy329700/dwains-theme-addons/blob/master/more_page/auto_informatie/.github/screenshots/mobile.png "mobile")
