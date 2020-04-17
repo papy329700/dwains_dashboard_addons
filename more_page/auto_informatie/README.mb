@@ -9,7 +9,7 @@ This Add-on is used for displaying Car information provided by the RDW custom co
 - Install [RDW](https://github.com/eelcohn/home-assistant-rdw).
 - Copy the file `auto_informatie.yaml`  to your `<config dir>/dwains-theme/addons/more_page/auto_informatie` directory.
 - Configure your `more_page.yaml` file in `<config dir>/dwains-theme/configs` with config below.
-- Download the [image ZIP file](https://github.com/papy329700/dwains-theme-addons/blob/master/more_page/auto_informatie/.github/auto_informatie.zip) and extract it into your `<config dir>/www/images`  directory.
+- Download the [image file](https://github.com/papy329700/dwains-theme-addons/blob/master/more_page/auto_informatie/.github/no_car.png) and extract it into your `<config dir>/www/images`  directory.
 - Store a picture from your car(s) in your `<config dir>/www/images`  directory.
 - Create a input_text.first_car_name, if you want to add more cars, create input_text.second_car_name 
 - Restart Home Assistant.
