@@ -22,7 +22,7 @@ To use this add-on in your Dwains Theme, add the following to your `more_page.ya
 # Example more_page.yaml entry
 more_page:
     addons:
-      - name: AfvalwijzerAuto Informatie
+      - name: Auto Informatie
         icon: fas:car-alt
         path: 'dwains-theme/addons/more_page/auto_informatie/auto_informatie.yaml'
 ```
@@ -35,7 +35,7 @@ In your auto_informatie.yaml:
 
 ### Screenshots
 **Desktop:**<br>
-![desktop](https://github.com/Klumpke/dwains-theme-addons/tree/master/more_page/auto_informatie/.github/screenshots/desktop.png "desktop")
+![desktop](https://github.com/papy329700/dwains-theme-addons/tree/master/more_page/auto_informatie/.github/screenshots/desktop.png "desktop")
 
 **Mobile:**<br>
-![mobile](https://github.com/Klumpke/dwains-theme-addons/tree/master/more_page/auto_informatie/.github/screenshots/mobile.png "mobile")
+![mobile](https://github.com/papy329700/dwains-theme-addons/tree/master/more_page/auto_informatie/.github/screenshots/mobile.png "mobile")
