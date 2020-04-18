@@ -1,5 +1,5 @@
 # Power Usage Add-on (more_page)
-##### Created by [Nick Papenborg](https://github.com/papy329700)
+##### Created by [Nick Papenborg](https://github.com/papy329700) and [Jeroen Klompen](https://github.com/klumpke)
 
 ### Description
 This Add-on is used for displaying Power, Gas and Water usage. I use the Toon integration in Home Assistant but you could use your own integration.
