@@ -1,4 +1,4 @@
-# Auto Informatie Add-on (more_page)
+# Power Usage Add-on (more_page)
 ##### Created by [Nick Papenborg](https://github.com/papy329700)
 
 ### Description
@@ -29,7 +29,7 @@ In your power_usage.yaml:
 
 ### Screenshots
 **Desktop:**<br>
-![desktop](https://github.com/papy329700/dwains-theme-addons/blob/master/more_page/power_usage/.github/screenshots/desktop.png "desktop")
+![desktop](https://github.com/papy329700/dwains_theme_addons/blob/master/more_page/power_usage/.github/screenshots/desktop.png "desktop")
 
 **Mobile:**<br>
-![mobile](https://github.com/papy329700/dwains-theme-addons/blob/master/more_page/power_usage/.github/screenshots/mobile.png "mobile")
+![mobile](https://github.com/papy329700/dwains_theme_addons/blob/master/more_page/power_usage/.github/screenshots/mobile.png "mobile")
