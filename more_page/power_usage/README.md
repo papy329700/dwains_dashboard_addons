@@ -25,6 +25,7 @@ more_page:
 In your power_usage.yaml: 
 - Change the sensors
 - If you own a water sensor, uncomment the code at the bottem by removing the #
+- Reload theme configuration at Theme settings
 
 
 ### Screenshots
