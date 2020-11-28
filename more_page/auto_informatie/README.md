@@ -21,6 +21,7 @@ This add-on uses Font Awsome Icons. To use these icons, you have to add the [Fon
 ### Usage
 To use this add-on in your Dwains Theme, add the following to your `more_page.yaml` file:
 
+
 ```yaml
 # Example more_page.yaml entry
 more_page:
